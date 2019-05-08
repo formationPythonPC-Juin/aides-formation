@@ -38,28 +38,7 @@ VY = .....# à compléter
 ################
 # question 4
 ################
-# calcul et tracé de la trajectoire
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##############
-# question 5
-##############
 plt.plot() # à compléter
+
+plt.legend()
+plt.show()
